@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/TaskToday/static/css/main.c9483c98.chunk.css",
+    "main.js": "/TaskToday/static/js/main.9d493808.chunk.js",
+    "main.js.map": "/TaskToday/static/js/main.9d493808.chunk.js.map",
+    "runtime-main.js": "/TaskToday/static/js/runtime-main.a7f1b498.js",
+    "runtime-main.js.map": "/TaskToday/static/js/runtime-main.a7f1b498.js.map",
+    "static/css/2.86df01db.chunk.css": "/TaskToday/static/css/2.86df01db.chunk.css",
+    "static/js/2.37300507.chunk.js": "/TaskToday/static/js/2.37300507.chunk.js",
+    "static/js/2.37300507.chunk.js.map": "/TaskToday/static/js/2.37300507.chunk.js.map",
+    "index.html": "/TaskToday/index.html",
+    "precache-manifest.cc07887b4f0cc6a911af23e01be7c1d7.js": "/TaskToday/precache-manifest.cc07887b4f0cc6a911af23e01be7c1d7.js",
+    "service-worker.js": "/TaskToday/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/TaskToday/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.c9483c98.chunk.css.map": "/TaskToday/static/css/main.c9483c98.chunk.css.map",
+    "static/js/2.37300507.chunk.js.LICENSE.txt": "/TaskToday/static/js/2.37300507.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f1b498.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.37300507.chunk.js",
+    "static/css/main.c9483c98.chunk.css",
+    "static/js/main.9d493808.chunk.js"
+  ]
+}
