@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TaskToday/static/css/main.131bd0ee.chunk.css",
-    "main.js": "/TaskToday/static/js/main.356b549c.chunk.js",
-    "main.js.map": "/TaskToday/static/js/main.356b549c.chunk.js.map",
+    "main.css": "/TaskToday/static/css/main.93b27dfe.chunk.css",
+    "main.js": "/TaskToday/static/js/main.cfb2af57.chunk.js",
+    "main.js.map": "/TaskToday/static/js/main.cfb2af57.chunk.js.map",
     "runtime-main.js": "/TaskToday/static/js/runtime-main.a7f1b498.js",
     "runtime-main.js.map": "/TaskToday/static/js/runtime-main.a7f1b498.js.map",
     "static/css/2.86df01db.chunk.css": "/TaskToday/static/css/2.86df01db.chunk.css",
     "static/js/2.4723fc95.chunk.js": "/TaskToday/static/js/2.4723fc95.chunk.js",
     "static/js/2.4723fc95.chunk.js.map": "/TaskToday/static/js/2.4723fc95.chunk.js.map",
     "index.html": "/TaskToday/index.html",
-    "precache-manifest.ff7d979c9da99887dc9345eb7baca5fb.js": "/TaskToday/precache-manifest.ff7d979c9da99887dc9345eb7baca5fb.js",
+    "precache-manifest.34c2e055ce6a3398bd87ce274aad948b.js": "/TaskToday/precache-manifest.34c2e055ce6a3398bd87ce274aad948b.js",
     "service-worker.js": "/TaskToday/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/TaskToday/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.131bd0ee.chunk.css.map": "/TaskToday/static/css/main.131bd0ee.chunk.css.map",
+    "static/css/main.93b27dfe.chunk.css.map": "/TaskToday/static/css/main.93b27dfe.chunk.css.map",
     "static/js/2.4723fc95.chunk.js.LICENSE.txt": "/TaskToday/static/js/2.4723fc95.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7f1b498.js",
     "static/css/2.86df01db.chunk.css",
     "static/js/2.4723fc95.chunk.js",
-    "static/css/main.131bd0ee.chunk.css",
-    "static/js/main.356b549c.chunk.js"
+    "static/css/main.93b27dfe.chunk.css",
+    "static/js/main.cfb2af57.chunk.js"
   ]
 }
