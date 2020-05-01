@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TaskToday/static/css/main.c060903e.chunk.css",
-    "main.js": "/TaskToday/static/js/main.983ecb6a.chunk.js",
-    "main.js.map": "/TaskToday/static/js/main.983ecb6a.chunk.js.map",
+    "main.js": "/TaskToday/static/js/main.73c41446.chunk.js",
+    "main.js.map": "/TaskToday/static/js/main.73c41446.chunk.js.map",
     "runtime-main.js": "/TaskToday/static/js/runtime-main.a7f1b498.js",
     "runtime-main.js.map": "/TaskToday/static/js/runtime-main.a7f1b498.js.map",
     "static/css/2.86df01db.chunk.css": "/TaskToday/static/css/2.86df01db.chunk.css",
     "static/js/2.9c0990bc.chunk.js": "/TaskToday/static/js/2.9c0990bc.chunk.js",
     "static/js/2.9c0990bc.chunk.js.map": "/TaskToday/static/js/2.9c0990bc.chunk.js.map",
     "index.html": "/TaskToday/index.html",
-    "precache-manifest.2b5041052914a7d3d2306847043159c5.js": "/TaskToday/precache-manifest.2b5041052914a7d3d2306847043159c5.js",
+    "precache-manifest.a74eb28ab269d57d90a83c5a83b3b45f.js": "/TaskToday/precache-manifest.a74eb28ab269d57d90a83c5a83b3b45f.js",
     "service-worker.js": "/TaskToday/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/TaskToday/static/css/2.86df01db.chunk.css.map",
     "static/css/main.c060903e.chunk.css.map": "/TaskToday/static/css/main.c060903e.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.9c0990bc.chunk.js",
     "static/css/main.c060903e.chunk.css",
-    "static/js/main.983ecb6a.chunk.js"
+    "static/js/main.73c41446.chunk.js"
   ]
 }
