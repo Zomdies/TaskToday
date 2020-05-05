@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2342a11e90e8c62375a7de1eae4f08e9",
+    "revision": "5271434d447004c63680e67a4c5a60cf",
     "url": "/TaskToday/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TaskToday/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "d4a2f90108fe78a10e2a",
+    "revision": "45fe089509f3597f7170",
     "url": "/TaskToday/static/css/main.962ebd3c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TaskToday/static/js/2.2d947346.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4a2f90108fe78a10e2a",
-    "url": "/TaskToday/static/js/main.bf6b3325.chunk.js"
+    "revision": "45fe089509f3597f7170",
+    "url": "/TaskToday/static/js/main.33eec618.chunk.js"
   },
   {
     "revision": "a244d4ba7228bd1a3c6f",
